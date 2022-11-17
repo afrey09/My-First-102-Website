@@ -4,7 +4,7 @@ console.log("hello everybody")
 let username=prompt ("What is your name???")
 console.log
 
-document.write("Get ready for the experiences of a lifetime!!!")
+document.write("Get ready for the experiences of a lifetime "+username+"!!!")
 
 let response = prompt("Do you like the outdoors?")
 
@@ -22,3 +22,4 @@ if (response == "yes") {
     alert("Let's get started...");
     document.write("Let's get started...");
   }
+
