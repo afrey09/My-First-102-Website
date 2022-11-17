@@ -1,0 +1,53 @@
+body{
+    background-color:darkgreen;
+    padding: 13px
+}
+
+header Link { 
+    text-align: center}
+
+h1 {
+    padding: 15px;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+.opening {
+    padding: 13px;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+.pnwparagraph {
+    background-color:darkolivegreen;
+    padding: 10px;
+}
+.lowerhalf {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.lowerhalf img {
+    max-height: 200px;
+    width:auto;
+    padding: 10px;
+    background-color: darkolivegreen;
+    text-align: right;
+    display:flex;
+    flex-direction: column;
+}
+
+.lowerhalf h1 {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.lowerhalf p {
+    font-size: 20px;
+    font-family: cursive
+}
+
+footer {
+    font-family: cursive;
+    font-size: 10px;
+}
